@@ -1,0 +1,41 @@
+Project Insights / Findings
+
+Student Performance Analysis — Key Insights
+1. Overall academic performance is moderate
+The average overall student score is 64.02
+Pass percentage is 88.03%, indicating that most students meet the minimum passing criteria, though high distinction performance is still limited
+2. Math is the strongest-performing subject, while English is the weakest
+Math has the highest average subject score
+English has the lowest average subject score
+The gap is not extremely large, but it suggests English may require more academic support or intervention compared to Math and Science
+3. Study hours show a positive relationship with overall score
+Students with higher study hours generally tend to achieve higher overall scores
+This suggests consistent study time is associated with better academic outcomes
+4. Attendance is positively associated with performance
+Students with higher attendance generally perform better overall
+Low attendance appears more common among lower-performing students, indicating attendance may be a meaningful performance driver
+5. Parent education appears to have some influence on student performance
+Students whose parents have higher educational backgrounds (such as diploma/postgraduate) show slightly higher average scores compared to students from less formally educated backgrounds
+However, the performance gap is moderate rather than extreme
+6. Internet access has a small but positive effect
+Students with internet access perform slightly better on average than students without internet access
+This may indicate the benefit of digital learning resources, though the gap is relatively small
+7. Extra activities do not significantly reduce academic performance
+Students participating in extra activities perform at a very similar level to those who do not
+This suggests extracurricular involvement may not harm academic performance and may coexist with balanced academic outcomes
+8. Study method differences are visible but not dramatic
+Students using online videos and coaching show slightly higher average scores
+Group study appears comparatively lower in this dataset
+The differences are not large enough to claim causation, but they do suggest study approach may influence outcomes
+9. Top-performing students show a combination of high attendance and high study hours
+Many top students have:
+very high attendance
+study hours near the upper range
+grade A
+This reinforces the relationship between discipline, attendance, and strong academic performance
+10. Lowest-performing students generally show low study hours and lower attendance
+The lowest-performing student records tend to have:
+low study hours
+lower attendance percentages
+failing grades
+This highlights a potential target group for academic intervention
