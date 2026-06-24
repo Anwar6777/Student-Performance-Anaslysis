@@ -197,6 +197,8 @@ using **Power BI Desktop**.
 * Grade Distribution
 * Gender Comparison
 * School Type Comparison
+  
+<img width="1111" height="625" alt="Main_Overview" src="https://github.com/user-attachments/assets/68219fd9-b879-4878-90ba-2f1bd01b60d7" />
 
 ### Page 2 — Performance Drivers & Insights
 
@@ -206,6 +208,7 @@ using **Power BI Desktop**.
 * Internet Access Comparison
 * Study Method Analysis
 * Top & Lowest Students
+<img width="1116" height="621" alt="Performance_Drivers" src="https://github.com/user-attachments/assets/2bf80464-259d-4193-8bdf-b2615c0c125d" />
 
 ---
 
